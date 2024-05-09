@@ -23,7 +23,6 @@
 
 * [Chain Settings](develop-on-core/chain-settings.md)
 * [Using Core Testnet](develop-on-core/using-core-testnet/README.md)
-  * [Using Uniswap on Testnet](develop-on-core/using-core-testnet/using-uniswap-on-testnet.md)
   * [Connect to Core Testnet](develop-on-core/using-core-testnet/connect-to-core-testnet.md)
 * [Building on Core](develop-on-core/building-on-core/README.md)
   * [Using Remix](develop-on-core/building-on-core/using-remix.md)
