@@ -13,7 +13,7 @@ Web verification is the most commonly used smart contract verification strategy.
 1. Search for the contract by address on [Core Scan](https://scan.test.btcs.network).
 2. After locating the contract, select the **Contract** tab and click **Verify and Publish**_._
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 3\. Fill in the required verification information on the page, specifically:
 
@@ -22,7 +22,7 @@ Web verification is the most commonly used smart contract verification strategy.
 * Compiler version;
 * Open-source license type;
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 4\. On the next page, fill in the contract's Solidity source code.
 
@@ -30,15 +30,15 @@ If your contract has constructor parameters, we recommend adding them in the `Co
 
 If you enabled optimization during contract compilation, select "Yes" for the `Optimization` field.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 5\. Click on **Verify and Publish** to finish the process.
 
-<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Now your verified contract on Core Scan should look like this:
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 ## API Verification
 
